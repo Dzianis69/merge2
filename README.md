@@ -1,2 +1,3 @@
 # merge2
-hello from first
+hello from second
+
